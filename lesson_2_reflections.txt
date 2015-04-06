@@ -1,0 +1,2 @@
+branching is like main and dev on TFS when new version numbers come around.
+should start a flow chart for branches and commits
